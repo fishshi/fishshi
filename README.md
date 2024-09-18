@@ -10,10 +10,10 @@ I'm currently a university student. Here's a bit more about me:
 
 🔧 Technologies & Tools
 
-  Languages: C++, Java, JavaScript
+-Languages: Java, C++, JavaScript
 
-  Frameworks: SpringBoot, Vue
+-Frameworks: SpringBoot, Vue, Qt
 
-  Tools: Git, Qt, VSCode
+-Tools: Git, VSCode, Qt
 
 Feel free to check out my repositories and connect with me if you'd like to collaborate or talk about technology!
