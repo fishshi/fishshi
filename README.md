@@ -10,9 +10,9 @@ I'm currently a university student. Here's a bit more about me:
 
 🔧 Technologies & Tools
 
-- Languages: Java, C++, TypeScript
+- Languages: Java, TypeScript, C++
 
-- Frameworks: SpringBoot, Vue, Electron, Qt, React
+- Frameworks: SpringBoot, Vue, Electron, React, Qt
 
 Feel free to check out my repositories and connect with me if you'd like to collaborate or talk about technology!
 
